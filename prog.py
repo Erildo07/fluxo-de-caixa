@@ -1,5 +1,5 @@
 # Sistema de caixa para sorveteria com opções de pagamento
-print("Bem-vindo à Sorveteria do João!")
+print("Bem-vindo à Sorveteria Estacao!")
 
 # Menu de produtos
 menu = """
